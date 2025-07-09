@@ -8,7 +8,6 @@ Este programa permite:
 - 🔐 **Cifrar** un texto con un desplazamiento numérico elegido por el usuario.
 - 🔓 **Descifrar** un mensaje cifrado sin conocer la clave, probando automáticamente todas las posibles (de 1 a 25).
 
-Está pensado como una herramienta educativa para entender cómo funciona el cifrado César y la lógica de fuerza bruta al descifrar.
 
 ## 🛠️ Tecnologías utilizadas
 
